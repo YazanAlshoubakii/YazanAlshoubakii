@@ -25,10 +25,17 @@
 <a href="mailto:yazan.h.alshoubaki@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="yazan.h.alshoubaki@gmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/yazan_shoubaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yazan_shoubaki" width="40" height="30" /></a> 
 </p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-YazanAlshoubakii.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-YazanAlshoubakii.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazanalshoubakii&show_icons=true&locale=en" alt="yazanalshoubakii" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazanalshoubakii&" alt="yazanalshoubakii" /></p>
+<br/><br/>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
