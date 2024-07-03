@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yazan+AlShoubaki!;" />
-</h1>
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=61DBFB&vCenter=true&size=22"></a></h1>
 <h3 align="center">A passionate fullstack developer from Jordan</h3>
 
 - 💬 Ask me about **JavaScript, CSS, HTML**
