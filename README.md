@@ -24,7 +24,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/yazan-alshoubaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yazan-alshoubaki" height="30" width="40" /></a>
 <a href="mailto:yazan.h.alshoubaki@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="yazan.h.alshoubaki@gmail.com" height="30" width="40" /></a>
-<a href="https://instagram.com/yazan_shoubaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yazan_shoubaki" width="40" height="30" /></a> 
 </p>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
