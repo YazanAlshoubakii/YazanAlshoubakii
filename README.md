@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **JavaScript, CSS, HTML**
 
-- 📫 How to reach me **Yazan.h.Alshoubaki@gmail.com**
+- 📫 How to reach me **Yazan.H.Alshoubaki@gmail.com**
 
 - ✨ Creating bugs since **6 Months**
 
